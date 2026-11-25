@@ -1,5 +1,7 @@
 # cw-la-a16b1-g02
 
+THE TRAVEL DIARIES
+
 Lab Assessment-2 for CWS RBU, Nagpur 2026 Semester-01 CSE Course.
 
 **Submitted by:** Pratiksha (19), Ayesha (15), Sameera (18), Ashray (07).
