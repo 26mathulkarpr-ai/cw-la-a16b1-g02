@@ -18,3 +18,7 @@ Lab Assessment-2 for CWS RBU, Nagpur 2026 Semester-01 CSE Course.
 2. Created HTML structure - Ayesha , sameera
 3. Added CSS styling - Pratiksha , Ashray
 4. Added images - Ashray , Sameera
+
+## figma 
+
+https://www.figma.com/make/L6iI6wwM1BLIcFgIi7oRe6/Travel-Diary-Website?t=RGNmkj3f5YtGgPrT-1
